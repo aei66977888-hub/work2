@@ -1,5 +1,7 @@
 # SchoolProject2
-練習
+java程式設計作業
+
+連結MySQL資料庫進行註冊會員、登入會員、訂購商品等動作。
 
 # abc
 ## abc
